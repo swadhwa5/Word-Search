@@ -1,0 +1,113 @@
+commit 0e92f18daca6b3eb2ecdad94805b5ca2e9a55080
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:56:38 2019 -0400
+
+    fully working search_functions.h
+
+commit 239887ff802c7629bed3c261e4eb078bde6b5a45
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:56:04 2019 -0400
+
+    Functioning Makefile
+
+commit d484d11da3c1bc8c7097e5099e461443b0c474cf
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:52:32 2019 -0400
+
+    fully working test_search_functions.c
+
+commit 3801f2fbe0d48bd54c9bfe3fd32b894e48a2b7b7
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:51:38 2019 -0400
+
+    fully working word_search.c
+
+commit c9a0af441f8e2f01c244dd97228fb28d8904c1a0
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 20:50:49 2019 -0400
+
+    fully working search_functions.c
+
+commit 8eddc5fdf8cf7d60244f930e954ad87c87d91603
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Thu Sep 26 13:26:05 2019 -0400
+
+    search_functions.c compiled with no errors
+
+commit d2e66d198225d08fef9454a35a4381d4b7549599
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 16:40:41 2019 -0400
+
+    Complied version of word_search.c
+
+commit 4ac170fa4a7119f839e99b7aae2c17151b8250c7
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 16:39:41 2019 -0400
+
+    second compiled version of search_functions.c
+
+commit f60e0548bd562c91f3f5ed365d2e1de59e3ffb21
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 13:08:12 2019 -0400
+
+    word_search.c not compiled yet
+
+commit cf3bdb8ddc7ce144446f47009bbca74d9512419b
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 25 13:07:08 2019 -0400
+
+    Compiled version of search_functions.c with warning
+
+commit 63f9770d2b8bd75466717fa55c58219b9855ed1c
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Sep 11 16:06:40 2019 -0400
+
+    arithmetic.c working version
+
+commit a98d360f1c64beefe23aa792ff868f2e9ef0dc31
+Author: Shreya Wadhwa <swadhwa5@ugradx.cs.jhu.edu>
+Date:   Wed Sep 11 16:00:15 2019 -0400
+
+    arithmetic.c compiled without errors
+
+commit 00c33c6bceb8f4779d3986884f53667ae4823ced
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Wed Sep 11 12:21:29 2019 -0400
+
+    arithmetic.c first version
+
+commit 86dbdceb9cc078b10c266ae8d2f4e127a79de6aa
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:17:44 2019 -0400
+
+    created third.c
+
+commit 9192d1c7d96d1101f1f5e98fe1c2af9bbe632ce0
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:17:06 2019 -0400
+
+    created second.c
+
+commit 9ccbba21d5277fbfb20a6c24e6a508eabd935c6e
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 14:10:18 2019 -0400
+
+    created first.c
+
+commit 725b11693d871f3f8ff7053086ad66d194ff5c94
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 13:22:37 2019 -0400
+
+    updated README
+
+commit 7a876b54a0d7d39d94eee99e38ed4e5e0b6f395f
+Author: Shreya Wadhwa <swadhwa5@ugrad11.cs.jhu.edu>
+Date:   Sun Sep 1 13:18:47 2019 -0400
+
+    created README
+
+commit 220d99f60b36f2eb884c5477970942b91deaa6c8
+Author: Shreya Wadhwa <swadhwa5@jh.edu>
+Date:   Sun Sep 1 16:46:29 2019 +0000
+
+    Initial commit
